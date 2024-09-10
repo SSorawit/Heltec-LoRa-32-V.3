@@ -14,3 +14,7 @@
    heltec lora v3 Rx_Tx(จำลองการเป็น Gateway)<br> 
     -รอรับก่อนเมื่อได้รับข้อมูลแล้วจะส่งกลับไป(delay 5 วิ)<br> 
    
+ แหล่งอ้างอิง<br>
+ Code ตัวอย่าง : https://github.com/ropg/heltec_esp32_lora_v3/tree/main<br>
+ Code ทดสอบ : https://khunsomsak.medium.com/heltec-wifi-lora-32-v3-c7319bfc560<br>
+ ข้อมูลของ Heltec LoRa 32 V3 : https://heltec.org/project/wifi-lora-32-v3/<br>
